@@ -3,22 +3,10 @@
         "id": 0,
         "name": "Samsung Galaxy Z Fold 7 5G 12GB/256GB Mới (Chính hãng VN)",
         "variant": [
-        {
-            "variantId": 0,
-            "variantName": "Đen"
-        },
-        {
-            "variantId": 1,
-            "variantName": "Xanh Mint"
-        },
-        {
-            "variantId": 2,
-            "variantName": "Xám"
-        },
-        {
-            "variantId": 3,
-            "variantName": "Xanh Navy"
-        }
+            "Đen",
+            "Xanh Mint",
+            "Xám",
+            "Xanh Navy"
         ],
         "price": "34,990,000đ",
         "info": "",
@@ -31,22 +19,10 @@
         "id": 1,
         "name": "Samsung Galaxy S26 Ultra 5G 12GB/512GB Mới (Chính hãng VN)",
         "variant": [
-        {
-            "variantId": 0,
-            "variantName": "Đen"
-        },
-        {
-            "variantId": 1,
-            "variantName": "Trắng"
-        },
-        {
-            "variantId": 2,
-            "variantName": "Tím"
-        },
-        {
-            "variantId": 3,
-            "variantName": "Vàng Hồng"
-        }
+            "Đen",
+            "Trắng",
+            "Tím",
+            "Vàng Hồng"
         ],
         "price": "32,490,000đ",
         "info": "",
@@ -59,22 +35,10 @@
         "id": 2,
         "name": "Samsung Galaxy Z Fold 6 5G 12GB/256GB Mới (Chính hãng Việt Nam)",
         "variant": [
-        {
-            "variantId": 0,
-            "variantName": "Trắng"
-        },
-        {
-            "variantId": 1,
-            "variantName": "Đen"
-        },
-        {
-            "variantId": 2,
-            "variantName": "Hồng"
-        },
-        {
-            "variantId": 3,
-            "variantName": "Xám"
-        }
+            "Trắng",
+            "Đen",
+            "Hồng",
+            "Xám"
         ],
         "price": "27,190,000đ",
         "info": "",
@@ -87,22 +51,10 @@
         "id": 3,
         "name": "Samsung Galaxy S25 FE 5G 8GB/512GB Mới (Chính Hãng VN)",
         "variant": [
-        {
-            "variantId": 0,
-            "variantName": "Trắng"
-        },
-        {
-            "variantId": 1,
-            "variantName": "Đen"
-        },
-        {
-            "variantId": 2,
-            "variantName": "Xanh Navy"
-        },
-        {
-            "variantId": 3,
-            "variantName": "Xanh Icy"
-        }
+            "Trắng",
+            "Đen",
+            "Xanh Navy",
+            "Xanh Icy"
         ],
         "price": "14,990,000đ",
         "info": "",
@@ -115,24 +67,408 @@
         "id": 4,
         "name": "Samsung Galaxy S24 FE 5G 256GB Mới (Chính hãng Việt Nam)",
         "variant": [
-        {
-            "variantId": 0,
-            "variantName": "Đen"
-        },
-        {
-            "variantId": 1,
-            "variantName": "Xanh da trời"
-        },
-        {
-            "variantId": 2,
-            "variantName": "Xanh Mint"
-        },
-        {
-            "variantId": 3,
-            "variantName": "Xám"
-        }
+            "Đen",
+            "Xanh da trời",
+            "Xanh Mint",
+            "Xám"
         ],
         "price": "11,290,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 5,
+        "name": "iPhone 17 Pro 1TB Mới (VN/A)",
+        "variant": [
+            "Trắng",
+            "Cam Vũ Trụ",
+            "Xanh Dương Đậm"
+        ],
+        "price": "40,990,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 6,
+        "name": "iPhone 17 Pro Max 512GB Mới (Việt Nam ZP/A)",
+        "variant": [
+            "Trắng",
+            "Cam Vũ Trụ",
+            "Xanh Dương Đậm"
+        ],
+        "price": "41,290,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 7,
+        "name": "iPhone 16 Pro 256GB Mới (LL/A)",
+        "variant": [
+            "Titan Trắng",
+            "Titan Đen",
+            "Titan Tự Nhiên",
+            "Titan Sa Mạc"
+        ],
+        "price": "25,190,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 8,
+        "name": "iPhone 16E 512GB Mới (LL/A)",
+        "variant": [
+            "Trắng",
+            "Đen"
+        ],
+        "price": "16,790,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 9,
+        "name": "iPhone 15 512GB Mới (LL/A)",
+        "variant": [
+            "Xanh Dương",
+            "Đen",
+            "Hồng",
+            "Vàng"
+        ],
+        "price": "18,990,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 10,
+        "name": "iPhone 15 Pro Max 512GB Mới (VN/A)",
+        "variant": [
+            "Đen",
+            "Tự Nhiên",
+            "Xanh",
+            "Trắng"
+        ],
+        "price": "29,190,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 11,
+        "name": "iPad Pro M5 11\" Wifi 5G 256GB Mới (Chính hãng)",
+        "variant": [
+            "Trắng",
+            "Đen"
+        ],
+        "price": "31,190,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 12,
+        "name": "iPad Pro M4 (2024) 11\" 16GB/2TB Wifi Mới Chính Hãng",
+        "variant": [
+            "Đen",
+            "Bạc"
+        ],
+        "price": "36,890,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 13,
+        "name": "iPad Air 7 M3 13\" (2025) 256GB Wifi 5G Mới (Chính Hãng)",
+        "variant": [
+            "Xám",
+            "Tím",
+            "Starlight",
+            "Xanh Dương"
+        ],
+        "price": "21,990,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Oppo Find X9 Pro 5G 16GB/512GB Mới (Chính hãng VN)",
+        "variant": [
+            "Đỏ",
+            "Trắng",
+            "Xám"
+        ],
+        "price": "26,590,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Oppo Find X9 5G 12GB/256GB Mới (Chính hãng VN)",
+        "variant": [
+            "Đen",
+            "Xám"
+        ],
+        "price": "16,890,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Oppo Reno 15 Pro 5G 12GB/512GB Mới (Chính hãng VN)",
+        "variant": [
+            "Xanh Dương",
+            "Nâu"
+        ],
+        "price": "15,590,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Oppo Reno 14 Pro 5G 12GB/512GB Mới (Chính Hãng VN)",
+        "variant": [
+            "Trắng",
+            "Đen"
+        ],
+        "price": "15,190,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Oppo Reno 15 5G 12GB/256GB Mới (Chính hãng VN)",
+        "variant": [
+            "Xanh Dương",
+            "Trắng"
+        ],
+        "price": "11,890,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Xiaomi 15 5G 12GB/512GB Mới (Chính hãng VN)",
+        "variant": [
+            "Trắng",
+            "Đen",
+            "Xanh Lá"
+        ],
+        "price": "16,190,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Xiaomi 15 5G 12GB/256GB Mới (Chính hãng VN)",
+        "variant": [
+            "Trắng",
+            "Đen",
+            "Xanh Lá"
+        ],
+        "price": "15,190,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Xiaomi 15T Pro 5G 12GB/512GB Mới (Chính hãng VN)",
+        "variant": [
+            "Đen",
+            "Vàng",
+            "Xám"
+        ],
+        "price": "13,990,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Xiaomi 15T 5G 12GB/256GB Mới (Chính hãng VN)",
+        "variant": [
+            "Đen",
+            "Vàng",
+            "Xám"
+        ],
+        "price": "Xiaomi 15T 5G 12GB/256GB Mới (Chính hãng VN)",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Vivo V60 5G 12GB/256GB Mới (Chính hãng VN)",
+        "variant": [
+            "Tím",
+            "Xám"
+        ],
+        "price": "11,390,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Vivo V60 Lite 5G 8GB/256GB Mới (Chính hãng VN)",
+        "variant": [
+            "Xanh Dương",
+            "Đen",
+            "Hồng"
+        ],
+        "price": "7,190,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Apple Airpods Max 2024 Mới (Chính Hãng)",
+        "variant": [
+            "Xanh Dương",
+            "Trắng",
+            "Đen",
+            "Tím"
+        ],
+        "price": "10,290,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Apple Airpods Pro 3 Mới (Chính hãng)",
+        "variant": [
+        ],
+        "price": "5,290,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Apple Airpods 4 (Khử Tiếng Ồn) - Chính Hãng",
+        "variant": [
+        ],
+        "price": "2,690,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Apple Airpods 3 Magsafe Mới (Chính Hãng)",
+        "variant": [
+        ],
+        "price": "1,790,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Ốp lưng Clear Case MagSafe Chính hãng cho iPhone 16 Pro Max",
+        "variant": [
+        ],
+        "price": "950,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Ốp lưng Clear Case MagSafe Chính hãng cho iPhone 16 Pro",
+        "variant": [
+        ],
+        "price": "900,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Kính Cường lực Full trong suốt ANANK iPhone (từ X đến 14 Pro Max)",
+        "variant": [
+        ],
+        "price": "280,000đ",
+        "info": "",
+        "images": [
+            "./san-pham/",
+            ""
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Pin sạc dự phòng Samsung 10.000mAh Type C PD 25W EB-P3400 Mới",
+        "variant": [
+        ],
+        "price": "590,000đ ",
         "info": "",
         "images": [
             "./san-pham/",
