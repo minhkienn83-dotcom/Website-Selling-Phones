@@ -2,6 +2,7 @@
     {
         "id": 0,
         "name": "Samsung Galaxy Z Fold 7 5G 12GB/256GB Mới (Chính hãng VN)",
+        "model": null,
         "variant": [
             "Đen",
             "Xanh Mint",
@@ -18,6 +19,7 @@
     {
         "id": 1,
         "name": "Samsung Galaxy S26 Ultra 5G 12GB/512GB Mới (Chính hãng VN)",
+        "model": null,
         "variant": [
             "Đen",
             "Trắng",
@@ -34,6 +36,7 @@
     {
         "id": 2,
         "name": "Samsung Galaxy Z Fold 6 5G 12GB/256GB Mới (Chính hãng Việt Nam)",
+        "model":null,
         "variant": [
             "Trắng",
             "Đen",
@@ -50,6 +53,7 @@
     {
         "id": 3,
         "name": "Samsung Galaxy S25 FE 5G 8GB/512GB Mới (Chính Hãng VN)",
+        "model": null,
         "variant": [
             "Trắng",
             "Đen",
@@ -66,6 +70,7 @@
     {
         "id": 4,
         "name": "Samsung Galaxy S24 FE 5G 256GB Mới (Chính hãng Việt Nam)",
+        "model":null,
         "variant": [
             "Đen",
             "Xanh da trời",
@@ -82,6 +87,7 @@
     {
         "id": 5,
         "name": "iPhone 17 Pro 1TB Mới (VN/A)",
+        "model": null,
         "variant": [
             "Trắng",
             "Cam Vũ Trụ",
@@ -97,6 +103,7 @@
     {
         "id": 6,
         "name": "iPhone 17 Pro Max 512GB Mới (Việt Nam ZP/A)",
+        "model": null,
         "variant": [
             "Trắng",
             "Cam Vũ Trụ",
@@ -112,6 +119,7 @@
     {
         "id": 7,
         "name": "iPhone 16 Pro 256GB Mới (LL/A)",
+        "model": null,
         "variant": [
             "Titan Trắng",
             "Titan Đen",
@@ -128,6 +136,7 @@
     {
         "id": 8,
         "name": "iPhone 16E 512GB Mới (LL/A)",
+        "model": null,
         "variant": [
             "Trắng",
             "Đen"
@@ -142,6 +151,7 @@
     {
         "id": 9,
         "name": "iPhone 15 512GB Mới (LL/A)",
+        "model": null,
         "variant": [
             "Xanh Dương",
             "Đen",
@@ -158,6 +168,7 @@
     {
         "id": 10,
         "name": "iPhone 15 Pro Max 512GB Mới (VN/A)",
+        "model": null,
         "variant": [
             "Đen",
             "Tự Nhiên",
@@ -174,6 +185,7 @@
     {
         "id": 11,
         "name": "iPad Pro M5 11\" Wifi 5G 256GB Mới (Chính hãng)",
+        "model": null,
         "variant": [
             "Trắng",
             "Đen"
@@ -188,6 +200,7 @@
     {
         "id": 12,
         "name": "iPad Pro M4 (2024) 11\" 16GB/2TB Wifi Mới Chính Hãng",
+        "model": null,
         "variant": [
             "Đen",
             "Bạc"
@@ -202,6 +215,7 @@
     {
         "id": 13,
         "name": "iPad Air 7 M3 13\" (2025) 256GB Wifi 5G Mới (Chính Hãng)",
+        "model": null,
         "variant": [
             "Xám",
             "Tím",
@@ -218,6 +232,7 @@
     {
         "id": 14,
         "name": "Oppo Find X9 Pro 5G 16GB/512GB Mới (Chính hãng VN)",
+        "model": null,
         "variant": [
             "Đỏ",
             "Trắng",
@@ -233,6 +248,7 @@
     {
         "id": 15,
         "name": "Oppo Find X9 5G 12GB/256GB Mới (Chính hãng VN)",
+        "model": null,
         "variant": [
             "Đen",
             "Xám"
@@ -247,6 +263,7 @@
     {
         "id": 16,
         "name": "Oppo Reno 15 Pro 5G 12GB/512GB Mới (Chính hãng VN)",
+        "model": null,
         "variant": [
             "Xanh Dương",
             "Nâu"
@@ -261,6 +278,7 @@
     {
         "id": 17,
         "name": "Oppo Reno 14 Pro 5G 12GB/512GB Mới (Chính Hãng VN)",
+        "model": null,
         "variant": [
             "Trắng",
             "Đen"
@@ -275,6 +293,7 @@
     {
         "id": 18,
         "name": "Oppo Reno 15 5G 12GB/256GB Mới (Chính hãng VN)",
+        "model": null,
         "variant": [
             "Xanh Dương",
             "Trắng"
@@ -289,6 +308,7 @@
     {
         "id": 19,
         "name": "Xiaomi 15 5G 12GB/512GB Mới (Chính hãng VN)",
+        "model": null,
         "variant": [
             "Trắng",
             "Đen",
@@ -304,6 +324,7 @@
     {
         "id": 20,
         "name": "Xiaomi 15 5G 12GB/256GB Mới (Chính hãng VN)",
+        "model": null,
         "variant": [
             "Trắng",
             "Đen",
@@ -319,6 +340,7 @@
     {
         "id": 21,
         "name": "Xiaomi 15T Pro 5G 12GB/512GB Mới (Chính hãng VN)",
+        "model": null,
         "variant": [
             "Đen",
             "Vàng",
@@ -334,12 +356,13 @@
     {
         "id": 22,
         "name": "Xiaomi 15T 5G 12GB/256GB Mới (Chính hãng VN)",
+        "model": null,
         "variant": [
             "Đen",
             "Vàng",
             "Xám"
         ],
-        "price": "Xiaomi 15T 5G 12GB/256GB Mới (Chính hãng VN)",
+        "price": "9,290,000đ",
         "info": "",
         "images": [
             "./san-pham/",
@@ -349,6 +372,7 @@
     {
         "id": 23,
         "name": "Vivo V60 5G 12GB/256GB Mới (Chính hãng VN)",
+        "model": null,
         "variant": [
             "Tím",
             "Xám"
@@ -363,6 +387,7 @@
     {
         "id": 24,
         "name": "Vivo V60 Lite 5G 8GB/256GB Mới (Chính hãng VN)",
+        "model": null,
         "variant": [
             "Xanh Dương",
             "Đen",
@@ -378,6 +403,16 @@
     {
         "id": 25,
         "name": "Apple Airpods Max 2024 Mới (Chính Hãng)",
+        "model": [
+            {
+                "modelName": "ZA/A (Chính hãng Việt Nam)",
+                "modelPrice": "11,990,000đ"
+            },
+            {
+                "modelName": "AM/A (Mỹ)",
+                "modelPrice": "11,290,000đ"   
+            }
+        ],
         "variant": [
             "Xanh Dương",
             "Trắng",
@@ -394,8 +429,17 @@
     {
         "id": 26,
         "name": "Apple Airpods Pro 3 Mới (Chính hãng)",
-        "variant": [
+        "model": [
+            {
+                "modelName": "Việt Nam",
+                "modelPrice": "6,390,000đ"
+            },
+            {
+                "modelName": "Mỹ",
+                "modelPrice": "6,290,000đ"   
+            }
         ],
+        "variant": null,
         "price": "5,290,000đ",
         "info": "",
         "images": [
@@ -406,8 +450,17 @@
     {
         "id": 27,
         "name": "Apple Airpods 4 (Khử Tiếng Ồn) - Chính Hãng",
-        "variant": [
+        "model": [
+            {
+                "modelName": "Việt Nam",
+                "modelPrice": "3,990,000đ"
+            },
+            {
+                "modelName": "Mỹ",
+                "modelPrice": "3,690,000đ"   
+            }
         ],
+        "variant": null,
         "price": "2,690,000đ",
         "info": "",
         "images": [
@@ -418,8 +471,17 @@
     {
         "id": 28,
         "name": "Apple Airpods 3 Magsafe Mới (Chính Hãng)",
-        "variant": [
+        "model": [
+            {
+                "modelName": "ZA/A (Chính hãng Việt Nam)",
+                "modelPrice": "2,890,000đ"
+            },
+            {
+                "modelName": "AM/A (Mỹ)",
+                "modelPrice": "2,790,000đ"   
+            }
         ],
+        "variant": null,
         "price": "1,790,000đ",
         "info": "",
         "images": [
@@ -430,8 +492,8 @@
     {
         "id": 29,
         "name": "Ốp lưng Clear Case MagSafe Chính hãng cho iPhone 16 Pro Max",
-        "variant": [
-        ],
+        "model": null,
+        "variant": null,
         "price": "950,000đ",
         "info": "",
         "images": [
@@ -442,8 +504,8 @@
     {
         "id": 30,
         "name": "Ốp lưng Clear Case MagSafe Chính hãng cho iPhone 16 Pro",
-        "variant": [
-        ],
+        "model": null,
+        "variant": null,
         "price": "900,000đ",
         "info": "",
         "images": [
@@ -454,8 +516,8 @@
     {
         "id": 31,
         "name": "Kính Cường lực Full trong suốt ANANK iPhone (từ X đến 14 Pro Max)",
-        "variant": [
-        ],
+        "model": null,
+        "variant": null,
         "price": "280,000đ",
         "info": "",
         "images": [
@@ -466,8 +528,8 @@
     {
         "id": 32,
         "name": "Pin sạc dự phòng Samsung 10.000mAh Type C PD 25W EB-P3400 Mới",
-        "variant": [
-        ],
+        "model": null,
+        "variant": null,
         "price": "590,000đ ",
         "info": "",
         "images": [
