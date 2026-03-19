@@ -1,6 +1,6 @@
 // import sanpham.json
 async function getData() {
-    const respone = await fetch('/asset/sanpham.json');
+    const respone = await fetch('/asset/san-pham/sanpham.json');
     return respone.json();
 }
 
