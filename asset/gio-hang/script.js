@@ -1,6 +1,6 @@
 // import sanpham.json
 async function getData() {
-    const respone = await fetch('/asset/san-pham/sanpham.json');
+    const respone = await fetch('/asset/chi-tiet-san-pham/product-detail.json');
     return respone.json();
 }
 
